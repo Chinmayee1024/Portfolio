@@ -116,7 +116,7 @@
     cursor: pointer;
   }
 }
-@media (max-width: 426px) {
+@media (max-width: 450px) {
   .mywork {
     align-items: start;
     gap: 50px;

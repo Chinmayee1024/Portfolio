@@ -183,7 +183,7 @@
     padding: 15px 40px;
   }
 }
-@media (max-width: 426px) {
+@media (max-width: 450px) {
   .contact {
     align-items: start;
     gap: 50px;

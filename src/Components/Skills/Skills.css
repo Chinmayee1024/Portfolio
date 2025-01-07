@@ -134,7 +134,7 @@
     font-size: 16px;
   }
 }
-@media (max-width: 426px) {
+@media (max-width: 450px) {
   .skills {
     align-items: start;
     gap: 50px;

@@ -105,7 +105,7 @@
     gap: 20px;
   }
 }
-@media (max-width: 426px) {
+@media (max-width: 450px) {
   .navbar {
     margin: 0;
   }

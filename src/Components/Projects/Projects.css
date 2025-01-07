@@ -118,7 +118,7 @@
     gap: 30px;
   }
 }
-@media (max-width: 426px) {
+@media (max-width: 450px) {
   .projects {
     align-items: start;
     gap: 70px;
@@ -135,7 +135,7 @@
   .project-format {
     gap: 20px;
     padding: 1rem;
-    height: 27rem;
+    /* height: 27rem; */
     width: 12.7rem;
     justify-content: flex-start;
   }
